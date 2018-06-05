@@ -12,4 +12,5 @@ make
 
 ## 接口
 run（）：函数运行
+add（）：来增加新的任务
 std::future<std::result_of<Function(Args...)>::type> add(func,args...)
